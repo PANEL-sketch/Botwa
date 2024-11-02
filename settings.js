@@ -13,7 +13,7 @@ global.ytname = "ZACK STORE"
 global.socialm = "ZACK STORE"
 global.location = "Indonesia, Jakarta"
 
-global.ownernumber = '6285717615431'  //creator number
+global.ownernumber = '6285776219709'  //creator number
 global.ownername = 'ZACK STORE' //owner name
 global.botname = 'ZACK STORE PRIVATE' //name of the bot
 
